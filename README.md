@@ -1,4 +1,4 @@
-# Automating-Port-Operations
+# Automating-Port-Operations. Dataset: https://drive.google.com/drive/folders/1CBu4hgOJEVuONYfzN7EwU0bNPJpOblVZ?usp=sharing
 - Project Statement:
 Marina Pier Inc. is leveraging technology to automate their operations on the San Francisco port.
 The company’s management has set out to build a bias-free/ corruption-free automatic system that reports & avoids faulty situations caused by human error. Examples of human error include misclassifying the correct type of boat. The type of boat that enters the port region is as follows.
